@@ -52,6 +52,10 @@ let Task = function(title, content, id) {
     this.title = title;
     this.content = content;
     this.id = id;
+    var date = new Date();
+    this.d = date.getDate();
+    this.m = date.getMonth() + 1;
+    this.y = date.getFullYear();
     tasksCount += 1;
 }
 
@@ -104,8 +108,6 @@ function loadTasksARefresh() {
 function displayTasks() {
     let loadedTasksOP = JSON.parse(localStorage.getItem('Tasks'));
     if((loadedTasksOP != null) || (loadedTasksOP.length > 0)) {
-        let titles = '';
-        let contents = '';
         let output = '';
 
         output += '<div>';
@@ -115,6 +117,7 @@ function displayTasks() {
             output += '<input class="x-btn" type="button" value="X" onclick="clearTask(' + loadedTasksOP[a].id + ');">'
             output += '<h2>' + loadedTasksOP[a].title + '</h2>' ;
             output += loadedTasksOP[a].content;
+            output += '<br>' + '<i id="small">' + loadedTasksOP[a].d + '/' + loadedTasksOP[a].m + '/' + loadedTasksOP[a].y + '</i>';
             output +='</span>';
         }
 
