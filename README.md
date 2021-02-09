@@ -7,7 +7,7 @@ The main file for this project is index.html file, the JavaScript for this proje
 ## See how I build this project in youtube video:
 
 <p align="center">
-    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg)](https://www.youtube.com/watch?v=Xixn1jT-4ro)
+    <a href="https://www.youtube.com/watch?v=Xixn1jT-4ro"><img src="https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg"></a>
 </p>
 
 # <i>App using:</i>
