@@ -2,7 +2,6 @@
 let Tasks = [];
 let tasksCount = 0;
 
-
 //getting doms onload index
 function getDOMs() {
     const tasksoutput = document.getElementById("tasksoutput");
