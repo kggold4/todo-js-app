@@ -6,6 +6,9 @@ The main file for this project is index.html file, the JavaScript for this proje
 
 * see how I build this project in youtube video: https://www.youtube.com/watch?v=Xixn1jT-4ro
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg)](https://www.youtube.com/watch?v=Xixn1jT-4ro)
+
+
 # <i>App using:</i>
 
 ## Adding a task:
