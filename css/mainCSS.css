@@ -208,12 +208,11 @@ header > hr {
     background: var(--grey);
 }
 
-.insert-btnhover {
+.insert-btn:hover {
     background: white;
-    box-shadow: var(--shadow);
 }
 
-.insert-btnactive {
+.insert-btn:active {
     background: black;
     color: white;
 }
