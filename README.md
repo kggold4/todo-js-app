@@ -9,11 +9,11 @@ The main file for this project is index.html file, the JavaScript for this proje
 ## adding a task:
 
 <p align="center">
-![add task](https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif1.gif)
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif1.gif">
 </p>
 
 ## manage tasks:
 
 <p align="center">
-![add task](https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif2.gif)
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif2.gif">\
 </p>
