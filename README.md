@@ -29,13 +29,13 @@ The main file for this project is index.html file, the JavaScript for this proje
 ## Adding a task:
 
 <p align="center">
-    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif3.gif">
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif3.gif" width="300px">
 </p>
 
 ## Manage tasks:
 
 <p align="center">
-    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif4.gif">\
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif4.gif" width="300px">
 </p>
 
 * The tasks are saved in the local storage of the browser, if you close the window and open it again the tasks is still there!
