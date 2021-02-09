@@ -4,10 +4,11 @@ Tasks application build with pure JavaScript, CSS and HTML, using object-oriente
 
 The main file for this project is index.html file, the JavaScript for this project is in js folder and the CSS of this project css folder.
 
-* see how I build this project in youtube video: https://www.youtube.com/watch?v=Xixn1jT-4ro
+## See how I build this project in youtube video:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg)](https://www.youtube.com/watch?v=Xixn1jT-4ro)
-
+<p align="center">
+    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg)](https://www.youtube.com/watch?v=Xixn1jT-4ro)
+</p>
 
 # <i>App using:</i>
 
