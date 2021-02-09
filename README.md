@@ -10,7 +10,7 @@ The main file for this project is index.html file, the JavaScript for this proje
     <a href="https://www.youtube.com/watch?v=Xixn1jT-4ro"><img src="https://img.youtube.com/vi/Xixn1jT-4ro/0.jpg"></a>
 </p>
 
-# <i>App using:</i>
+# <i>App using in PC:</i>
 
 ## Adding a task:
 
@@ -22,6 +22,20 @@ The main file for this project is index.html file, the JavaScript for this proje
 
 <p align="center">
     <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif2.gif">\
+</p>
+
+# <i>App using in Mobile:</i>
+
+## Adding a task:
+
+<p align="center">
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif3.gif">
+</p>
+
+## Manage tasks:
+
+<p align="center">
+    <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif4.gif">\
 </p>
 
 * The tasks are saved in the local storage of the browser, if you close the window and open it again the tasks is still there!
