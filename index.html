@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
         <!-- title -->
-        <title>Tasks Web Application</title>
+        <title>To Do App</title>
 
         <!-- javascript -->
         <script src="js/mainJS.js"></script>
@@ -45,7 +45,9 @@
                 <div class="wrapper-a">
                     <input type="button" class="btn" value="Insert" onclick="insert();">
                     <input type="button" class="btn" value="Cancel" onclick="hideInsertTasks();">
-                    <span class="error" id="error"></span>
+                </div>
+                <div class="error">
+                    <span id="error"></span>
                 </div>
         </section>
 
@@ -55,7 +57,7 @@
         </section>
 
         <!-- Delete all Tasks Button -->
-        <input type="button" class="btn deletebtn" value="Delete all Tasks" onclick="clearTasks();">
+        <input type="button" class="btn deletebtn" id="standart-rem" value="Delete all Tasks" onclick="clearTasks();">
 
         <!-- Insert Task Button -->
         <input type="button" value="+" class="insert-btn" id="insertbtn" onclick="showInsertTasks();">
