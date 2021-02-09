@@ -20,4 +20,10 @@ The main file for this project is index.html file, the JavaScript for this proje
     <img src="https://github.com/kggold4/todo-js-app/blob/main/images/gif/gif2.gif">\
 </p>
 
-* The tasks are saved in the local storage of the browser, if you close the window and open it again the task is still there!
+* The tasks are saved in the local storage of the browser, if you close the window and open it again the tasks is still there!
+
+## To clone this project:
+
+```
+git clone https://github.com/kggold4/todo-js-app.git
+```
