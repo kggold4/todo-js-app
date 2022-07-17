@@ -4,6 +4,9 @@ Tasks application build with pure JavaScript, CSS and HTML, using object-oriente
 
 The main file for this project is index.html file, the JavaScript for this project is in js folder and the CSS of this project css folder.
 
+# Try the app online - [todo-js-app online](https://kggold4.github.io/todo-js-app/)
+
+
 ## See how I build this project in youtube video:
 
 <p align="center">
